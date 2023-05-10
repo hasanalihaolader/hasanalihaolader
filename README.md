@@ -1,6 +1,3 @@
-<style>
-	.float-left{float:left}
-</style>
 <p>
 Hasan Ali Haolader has been in software development for the last 7 years and designing efficient, scalable, and secure technology solutions. Currently, he is working as a Senior Software Engineer at Brain station 23.
 </p>
