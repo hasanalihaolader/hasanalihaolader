@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **hasanalihaolader/hasanalihaolader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 Hasan Ali Haolader has been in software development for the last 7 years and designing efficient, scalable, and secure technology solutions. Currently, he is working as a Senior Software Engineer at Brain station 23.
 
